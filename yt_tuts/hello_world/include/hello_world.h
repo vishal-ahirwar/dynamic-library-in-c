@@ -3,4 +3,5 @@
 #include<stdio.h>
 void hello_world();
 void println(const char*);
+void lib_info();
 #endif
